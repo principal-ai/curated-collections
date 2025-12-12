@@ -1,0 +1,102 @@
+[
+  {
+    "repositoryId": "anthropics/anthropic-sdk-python",
+    "workspaceId": "ws-featured-ai",
+    "addedAt": 1702400000000
+  },
+  {
+    "repositoryId": "anthropics/anthropic-sdk-typescript",
+    "workspaceId": "ws-featured-ai",
+    "addedAt": 1702400000000
+  },
+  {
+    "repositoryId": "openai/whisper",
+    "workspaceId": "ws-featured-ai",
+    "addedAt": 1702400000000
+  },
+  {
+    "repositoryId": "huggingface/transformers",
+    "workspaceId": "ws-featured-ai",
+    "addedAt": 1702400000000
+  },
+  {
+    "repositoryId": "langchain-ai/langchain",
+    "workspaceId": "ws-featured-ai",
+    "addedAt": 1702400000000
+  },
+  {
+    "repositoryId": "vercel/next.js",
+    "workspaceId": "ws-developer-tools",
+    "addedAt": 1702400000000
+  },
+  {
+    "repositoryId": "tailwindlabs/tailwindcss",
+    "workspaceId": "ws-developer-tools",
+    "addedAt": 1702400000000
+  },
+  {
+    "repositoryId": "biomejs/biome",
+    "workspaceId": "ws-developer-tools",
+    "addedAt": 1702400000000
+  },
+  {
+    "repositoryId": "evanw/esbuild",
+    "workspaceId": "ws-developer-tools",
+    "addedAt": 1702400000000
+  },
+  {
+    "repositoryId": "vitejs/vite",
+    "workspaceId": "ws-developer-tools",
+    "addedAt": 1702400000000
+  },
+  {
+    "repositoryId": "facebook/react",
+    "workspaceId": "ws-react-ecosystem",
+    "addedAt": 1702400000000
+  },
+  {
+    "repositoryId": "pmndrs/zustand",
+    "workspaceId": "ws-react-ecosystem",
+    "addedAt": 1702400000000
+  },
+  {
+    "repositoryId": "TanStack/query",
+    "workspaceId": "ws-react-ecosystem",
+    "addedAt": 1702400000000
+  },
+  {
+    "repositoryId": "shadcn-ui/ui",
+    "workspaceId": "ws-react-ecosystem",
+    "addedAt": 1702400000000
+  },
+  {
+    "repositoryId": "radix-ui/primitives",
+    "workspaceId": "ws-react-ecosystem",
+    "addedAt": 1702400000000
+  },
+  {
+    "repositoryId": "denoland/deno",
+    "workspaceId": "ws-rust-projects",
+    "addedAt": 1702400000000
+  },
+  {
+    "repositoryId": "BurntSushi/ripgrep",
+    "workspaceId": "ws-rust-projects",
+    "addedAt": 1702400000000
+  },
+  {
+    "repositoryId": "sharkdp/bat",
+    "workspaceId": "ws-rust-projects",
+    "addedAt": 1702400000000
+  },
+  {
+    "repositoryId": "astral-sh/ruff",
+    "workspaceId": "ws-rust-projects",
+    "addedAt": 1702400000000
+  },
+  {
+    "repositoryId": "tauri-apps/tauri",
+    "workspaceId": "ws-rust-projects",
+    "addedAt": 1702400000000
+  }
+]

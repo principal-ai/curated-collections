@@ -1,0 +1,51 @@
+[
+  {
+    "id": "ws-featured-ai",
+    "name": "Featured AI Tools",
+    "description": "Open source AI and ML projects worth exploring",
+    "icon": "Sparkles",
+    "theme": "purple",
+    "createdAt": 1702400000000,
+    "updatedAt": 1702400000000,
+    "metadata": {
+      "curatedBy": "Principal AI",
+      "featured": true
+    }
+  },
+  {
+    "id": "ws-developer-tools",
+    "name": "Developer Productivity",
+    "description": "Tools that boost your development workflow",
+    "icon": "Wrench",
+    "theme": "blue",
+    "createdAt": 1702400000000,
+    "updatedAt": 1702400000000,
+    "metadata": {
+      "curatedBy": "Principal AI"
+    }
+  },
+  {
+    "id": "ws-react-ecosystem",
+    "name": "React Ecosystem",
+    "description": "Essential libraries for React development",
+    "icon": "Atom",
+    "theme": "cyan",
+    "createdAt": 1702400000000,
+    "updatedAt": 1702400000000,
+    "metadata": {
+      "curatedBy": "Principal AI"
+    }
+  },
+  {
+    "id": "ws-rust-projects",
+    "name": "Rust Projects",
+    "description": "High-performance Rust tools and libraries",
+    "icon": "Cog",
+    "theme": "orange",
+    "createdAt": 1702400000000,
+    "updatedAt": 1702400000000,
+    "metadata": {
+      "curatedBy": "Principal AI"
+    }
+  }
+]
