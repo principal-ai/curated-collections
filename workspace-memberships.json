@@ -2,78 +2,193 @@
   "version": "1.0.0",
   "memberships": [
     {
-      "repositoryId": "anthropics/anthropic-sdk-python",
-      "workspaceId": "ws-featured-ai",
+      "workspaceId": "ws-ai-coding-agents",
+      "repositoryId": "principal-forks/cline",
       "addedAt": 1702400000000
     },
     {
-      "repositoryId": "anthropics/anthropic-sdk-typescript",
-      "workspaceId": "ws-featured-ai",
+      "workspaceId": "ws-ai-coding-agents",
+      "repositoryId": "principal-forks/codex",
       "addedAt": 1702400000000
     },
     {
-      "repositoryId": "openai/whisper",
-      "workspaceId": "ws-featured-ai",
+      "workspaceId": "ws-ai-coding-agents",
+      "repositoryId": "principal-forks/opencode",
       "addedAt": 1702400000000
     },
     {
-      "repositoryId": "huggingface/transformers",
-      "workspaceId": "ws-featured-ai",
+      "workspaceId": "ws-ai-coding-agents",
+      "repositoryId": "principal-forks/OpenHands",
       "addedAt": 1702400000000
     },
     {
-      "repositoryId": "langchain-ai/langchain",
-      "workspaceId": "ws-featured-ai",
+      "workspaceId": "ws-ai-coding-agents",
+      "repositoryId": "principal-forks/gemini-cli",
       "addedAt": 1702400000000
     },
     {
-      "repositoryId": "vercel/next.js",
+      "workspaceId": "ws-ai-coding-agents",
+      "repositoryId": "principal-forks/grok-cli",
+      "addedAt": 1702400000000
+    },
+    {
+      "workspaceId": "ws-ai-coding-agents",
+      "repositoryId": "principal-forks/humanlayer",
+      "addedAt": 1702400000000
+    },
+    {
+      "workspaceId": "ws-ai-coding-agents",
+      "repositoryId": "principal-forks/agentic-flow",
+      "addedAt": 1702400000000
+    },
+    {
+      "workspaceId": "ws-agent-orchestration",
+      "repositoryId": "principal-forks/claude-flow",
+      "addedAt": 1702400000000
+    },
+    {
+      "workspaceId": "ws-agent-orchestration",
+      "repositoryId": "principal-forks/crewAI",
+      "addedAt": 1702400000000
+    },
+    {
+      "workspaceId": "ws-agent-orchestration",
+      "repositoryId": "principal-forks/langchain",
+      "addedAt": 1702400000000
+    },
+    {
+      "workspaceId": "ws-agent-orchestration",
+      "repositoryId": "principal-forks/AutoGPT",
+      "addedAt": 1702400000000
+    },
+    {
+      "workspaceId": "ws-agent-orchestration",
+      "repositoryId": "principal-forks/agent-ops",
+      "addedAt": 1702400000000
+    },
+    {
+      "workspaceId": "ws-ai-infrastructure",
+      "repositoryId": "principal-forks/ollama",
+      "addedAt": 1702400000000
+    },
+    {
+      "workspaceId": "ws-ai-infrastructure",
+      "repositoryId": "principal-forks/llama.cpp",
+      "addedAt": 1702400000000
+    },
+    {
+      "workspaceId": "ws-ai-infrastructure",
+      "repositoryId": "principal-forks/transformers",
+      "addedAt": 1702400000000
+    },
+    {
+      "workspaceId": "ws-ai-infrastructure",
+      "repositoryId": "principal-forks/onyx",
+      "addedAt": 1702400000000
+    },
+    {
       "workspaceId": "ws-developer-tools",
+      "repositoryId": "principal-forks/zed",
       "addedAt": 1702400000000
     },
     {
-      "repositoryId": "tailwindlabs/tailwindcss",
       "workspaceId": "ws-developer-tools",
+      "repositoryId": "principal-forks/ghostty",
       "addedAt": 1702400000000
     },
     {
-      "repositoryId": "biomejs/biome",
       "workspaceId": "ws-developer-tools",
+      "repositoryId": "principal-forks/sentry",
       "addedAt": 1702400000000
     },
     {
-      "repositoryId": "evanw/esbuild",
       "workspaceId": "ws-developer-tools",
+      "repositoryId": "principal-forks/sourcebot",
       "addedAt": 1702400000000
     },
     {
-      "repositoryId": "vitejs/vite",
       "workspaceId": "ws-developer-tools",
+      "repositoryId": "principal-forks/terraform",
       "addedAt": 1702400000000
     },
     {
-      "repositoryId": "facebook/react",
-      "workspaceId": "ws-react-ecosystem",
+      "workspaceId": "ws-developer-tools",
+      "repositoryId": "principal-forks/better-auth",
       "addedAt": 1702400000000
     },
     {
-      "repositoryId": "pmndrs/zustand",
-      "workspaceId": "ws-react-ecosystem",
+      "workspaceId": "ws-developer-tools",
+      "repositoryId": "principal-forks/supabase",
       "addedAt": 1702400000000
     },
     {
-      "repositoryId": "TanStack/query",
-      "workspaceId": "ws-react-ecosystem",
+      "workspaceId": "ws-ai-utilities",
+      "repositoryId": "principal-forks/beads",
       "addedAt": 1702400000000
     },
     {
-      "repositoryId": "shadcn-ui/ui",
-      "workspaceId": "ws-react-ecosystem",
+      "workspaceId": "ws-ai-utilities",
+      "repositoryId": "principal-forks/Fabric",
       "addedAt": 1702400000000
     },
     {
-      "repositoryId": "radix-ui/primitives",
-      "workspaceId": "ws-react-ecosystem",
+      "workspaceId": "ws-ai-utilities",
+      "repositoryId": "principal-forks/Backlog.md",
+      "addedAt": 1702400000000
+    },
+    {
+      "workspaceId": "ws-ai-utilities",
+      "repositoryId": "principal-forks/pdf-library",
+      "addedAt": 1702400000000
+    },
+    {
+      "workspaceId": "ws-ai-utilities",
+      "repositoryId": "principal-forks/claude-telegram-mirror",
+      "addedAt": 1702400000000
+    },
+    {
+      "workspaceId": "ws-ai-utilities",
+      "repositoryId": "principal-forks/dexter",
+      "addedAt": 1702400000000
+    },
+    {
+      "workspaceId": "ws-ai-utilities",
+      "repositoryId": "principal-forks/next-ai-draw-io",
+      "addedAt": 1702400000000
+    },
+    {
+      "workspaceId": "ws-ai-utilities",
+      "repositoryId": "principal-forks/omnara",
+      "addedAt": 1702400000000
+    },
+    {
+      "workspaceId": "ws-ai-utilities",
+      "repositoryId": "principal-forks/epicenter",
+      "addedAt": 1702400000000
+    },
+    {
+      "workspaceId": "ws-creative-business",
+      "repositoryId": "principal-forks/tldraw",
+      "addedAt": 1702400000000
+    },
+    {
+      "workspaceId": "ws-creative-business",
+      "repositoryId": "principal-forks/orca-engine",
+      "addedAt": 1702400000000
+    },
+    {
+      "workspaceId": "ws-creative-business",
+      "repositoryId": "principal-forks/midday",
+      "addedAt": 1702400000000
+    },
+    {
+      "workspaceId": "ws-creative-business",
+      "repositoryId": "principal-forks/polar",
+      "addedAt": 1702400000000
+    },
+    {
+      "workspaceId": "ws-creative-business",
+      "repositoryId": "principal-forks/Zero",
       "addedAt": 1702400000000
     }
   ]
