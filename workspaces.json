@@ -2,10 +2,10 @@
   "version": "1.0.0",
   "workspaces": [
     {
-      "id": "ws-featured-ai",
-      "name": "Featured AI Tools",
-      "description": "Open source AI and ML projects worth exploring",
-      "icon": "Sparkles",
+      "id": "ws-ai-coding-agents",
+      "name": "AI Coding Agents",
+      "description": "Tools that code with and for you",
+      "icon": "Code",
       "theme": "purple",
       "createdAt": 1702400000000,
       "updatedAt": 1702400000000,
@@ -15,11 +15,24 @@
       }
     },
     {
-      "id": "ws-developer-tools",
-      "name": "Developer Productivity",
-      "description": "Tools that boost your development workflow",
-      "icon": "Wrench",
+      "id": "ws-agent-orchestration",
+      "name": "Agent Orchestration",
+      "description": "Frameworks for building multi-agent systems",
+      "icon": "Network",
       "theme": "blue",
+      "createdAt": 1702400000000,
+      "updatedAt": 1702400000000,
+      "metadata": {
+        "curatedBy": "Principal AI",
+        "featured": true
+      }
+    },
+    {
+      "id": "ws-ai-infrastructure",
+      "name": "AI Infrastructure",
+      "description": "Core ML and LLM tools",
+      "icon": "Cpu",
+      "theme": "green",
       "createdAt": 1702400000000,
       "updatedAt": 1702400000000,
       "metadata": {
@@ -27,11 +40,35 @@
       }
     },
     {
-      "id": "ws-react-ecosystem",
-      "name": "React Ecosystem",
-      "description": "Essential libraries for React development",
-      "icon": "Atom",
-      "theme": "cyan",
+      "id": "ws-developer-tools",
+      "name": "Developer Tools",
+      "description": "Productivity and infrastructure tools",
+      "icon": "Wrench",
+      "theme": "orange",
+      "createdAt": 1702400000000,
+      "updatedAt": 1702400000000,
+      "metadata": {
+        "curatedBy": "Principal AI"
+      }
+    },
+    {
+      "id": "ws-ai-utilities",
+      "name": "AI Utilities",
+      "description": "Helpful AI-powered tools and integrations",
+      "icon": "Zap",
+      "theme": "yellow",
+      "createdAt": 1702400000000,
+      "updatedAt": 1702400000000,
+      "metadata": {
+        "curatedBy": "Principal AI"
+      }
+    },
+    {
+      "id": "ws-creative-business",
+      "name": "Creative & Business",
+      "description": "Apps for creativity and business",
+      "icon": "Sparkles",
+      "theme": "pink",
       "createdAt": 1702400000000,
       "updatedAt": 1702400000000,
       "metadata": {
