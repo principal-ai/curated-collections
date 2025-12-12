@@ -75,31 +75,6 @@
       "repositoryId": "radix-ui/primitives",
       "workspaceId": "ws-react-ecosystem",
       "addedAt": 1702400000000
-    },
-    {
-      "repositoryId": "denoland/deno",
-      "workspaceId": "ws-rust-projects",
-      "addedAt": 1702400000000
-    },
-    {
-      "repositoryId": "BurntSushi/ripgrep",
-      "workspaceId": "ws-rust-projects",
-      "addedAt": 1702400000000
-    },
-    {
-      "repositoryId": "sharkdp/bat",
-      "workspaceId": "ws-rust-projects",
-      "addedAt": 1702400000000
-    },
-    {
-      "repositoryId": "astral-sh/ruff",
-      "workspaceId": "ws-rust-projects",
-      "addedAt": 1702400000000
-    },
-    {
-      "repositoryId": "tauri-apps/tauri",
-      "workspaceId": "ws-rust-projects",
-      "addedAt": 1702400000000
     }
   ]
 }
