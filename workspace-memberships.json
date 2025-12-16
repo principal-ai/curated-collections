@@ -4,192 +4,420 @@
     {
       "workspaceId": "ws-ai-coding-agents",
       "repositoryId": "principal-forks/cline",
-      "addedAt": 1702400000000
+      "addedAt": 1702400000000,
+      "metadata": {
+        "sourceRepository": {
+          "owner": "cline",
+          "name": "cline"
+        }
+      }
     },
     {
       "workspaceId": "ws-ai-coding-agents",
       "repositoryId": "principal-forks/codex",
-      "addedAt": 1702400000000
+      "addedAt": 1702400000000,
+      "metadata": {
+        "sourceRepository": {
+          "owner": "openai",
+          "name": "codex"
+        }
+      }
     },
     {
       "workspaceId": "ws-ai-coding-agents",
       "repositoryId": "principal-forks/opencode",
-      "addedAt": 1702400000000
+      "addedAt": 1702400000000,
+      "metadata": {
+        "sourceRepository": {
+          "owner": "sst",
+          "name": "opencode"
+        }
+      }
     },
     {
       "workspaceId": "ws-ai-coding-agents",
       "repositoryId": "principal-forks/OpenHands",
-      "addedAt": 1702400000000
+      "addedAt": 1702400000000,
+      "metadata": {
+        "sourceRepository": {
+          "owner": "OpenHands",
+          "name": "OpenHands"
+        }
+      }
     },
     {
       "workspaceId": "ws-ai-coding-agents",
       "repositoryId": "principal-forks/gemini-cli",
-      "addedAt": 1702400000000
+      "addedAt": 1702400000000,
+      "metadata": {
+        "sourceRepository": {
+          "owner": "google-gemini",
+          "name": "gemini-cli"
+        }
+      }
     },
     {
       "workspaceId": "ws-ai-coding-agents",
       "repositoryId": "principal-forks/grok-cli",
-      "addedAt": 1702400000000
+      "addedAt": 1702400000000,
+      "metadata": {
+        "sourceRepository": {
+          "owner": "superagent-ai",
+          "name": "grok-cli"
+        }
+      }
     },
     {
       "workspaceId": "ws-ai-coding-agents",
       "repositoryId": "principal-forks/humanlayer",
-      "addedAt": 1702400000000
+      "addedAt": 1702400000000,
+      "metadata": {
+        "sourceRepository": {
+          "owner": "humanlayer",
+          "name": "humanlayer"
+        }
+      }
     },
     {
       "workspaceId": "ws-ai-coding-agents",
       "repositoryId": "principal-forks/agentic-flow",
-      "addedAt": 1702400000000
+      "addedAt": 1702400000000,
+      "metadata": {
+        "sourceRepository": {
+          "owner": "ruvnet",
+          "name": "agentic-flow"
+        }
+      }
     },
     {
       "workspaceId": "ws-agent-orchestration",
       "repositoryId": "principal-forks/claude-flow",
-      "addedAt": 1702400000000
+      "addedAt": 1702400000000,
+      "metadata": {
+        "sourceRepository": {
+          "owner": "ruvnet",
+          "name": "claude-flow"
+        }
+      }
     },
     {
       "workspaceId": "ws-agent-orchestration",
       "repositoryId": "principal-forks/crewAI",
-      "addedAt": 1702400000000
+      "addedAt": 1702400000000,
+      "metadata": {
+        "sourceRepository": {
+          "owner": "crewAIInc",
+          "name": "crewAI"
+        }
+      }
     },
     {
       "workspaceId": "ws-agent-orchestration",
       "repositoryId": "principal-forks/langchain",
-      "addedAt": 1702400000000
+      "addedAt": 1702400000000,
+      "metadata": {
+        "sourceRepository": {
+          "owner": "langchain-ai",
+          "name": "langchain"
+        }
+      }
     },
     {
       "workspaceId": "ws-agent-orchestration",
       "repositoryId": "principal-forks/AutoGPT",
-      "addedAt": 1702400000000
+      "addedAt": 1702400000000,
+      "metadata": {
+        "sourceRepository": {
+          "owner": "Significant-Gravitas",
+          "name": "AutoGPT"
+        }
+      }
     },
     {
       "workspaceId": "ws-agent-orchestration",
       "repositoryId": "principal-forks/agent-ops",
-      "addedAt": 1702400000000
+      "addedAt": 1702400000000,
+      "metadata": {
+        "sourceRepository": {
+          "owner": "tonyfosterdev",
+          "name": "agent-ops"
+        }
+      }
     },
     {
       "workspaceId": "ws-ai-infrastructure",
       "repositoryId": "principal-forks/ollama",
-      "addedAt": 1702400000000
+      "addedAt": 1702400000000,
+      "metadata": {
+        "sourceRepository": {
+          "owner": "ollama",
+          "name": "ollama"
+        }
+      }
     },
     {
       "workspaceId": "ws-ai-infrastructure",
       "repositoryId": "principal-forks/llama.cpp",
-      "addedAt": 1702400000000
+      "addedAt": 1702400000000,
+      "metadata": {
+        "sourceRepository": {
+          "owner": "ggml-org",
+          "name": "llama.cpp"
+        }
+      }
     },
     {
       "workspaceId": "ws-ai-infrastructure",
       "repositoryId": "principal-forks/transformers",
-      "addedAt": 1702400000000
+      "addedAt": 1702400000000,
+      "metadata": {
+        "sourceRepository": {
+          "owner": "huggingface",
+          "name": "transformers"
+        }
+      }
     },
     {
       "workspaceId": "ws-ai-infrastructure",
       "repositoryId": "principal-forks/onyx",
-      "addedAt": 1702400000000
+      "addedAt": 1702400000000,
+      "metadata": {
+        "sourceRepository": {
+          "owner": "onyx-dot-app",
+          "name": "onyx"
+        }
+      }
     },
     {
       "workspaceId": "ws-developer-tools",
       "repositoryId": "principal-forks/zed",
-      "addedAt": 1702400000000
+      "addedAt": 1702400000000,
+      "metadata": {
+        "sourceRepository": {
+          "owner": "zed-industries",
+          "name": "zed"
+        }
+      }
     },
     {
       "workspaceId": "ws-developer-tools",
       "repositoryId": "principal-forks/ghostty",
-      "addedAt": 1702400000000
+      "addedAt": 1702400000000,
+      "metadata": {
+        "sourceRepository": {
+          "owner": "ghostty-org",
+          "name": "ghostty"
+        }
+      }
     },
     {
       "workspaceId": "ws-developer-tools",
       "repositoryId": "principal-forks/sentry",
-      "addedAt": 1702400000000
+      "addedAt": 1702400000000,
+      "metadata": {
+        "sourceRepository": {
+          "owner": "getsentry",
+          "name": "sentry"
+        }
+      }
     },
     {
       "workspaceId": "ws-developer-tools",
       "repositoryId": "principal-forks/sourcebot",
-      "addedAt": 1702400000000
+      "addedAt": 1702400000000,
+      "metadata": {
+        "sourceRepository": {
+          "owner": "sourcebot-dev",
+          "name": "sourcebot"
+        }
+      }
     },
     {
       "workspaceId": "ws-developer-tools",
       "repositoryId": "principal-forks/terraform",
-      "addedAt": 1702400000000
+      "addedAt": 1702400000000,
+      "metadata": {
+        "sourceRepository": {
+          "owner": "hashicorp",
+          "name": "terraform"
+        }
+      }
     },
     {
       "workspaceId": "ws-developer-tools",
       "repositoryId": "principal-forks/better-auth",
-      "addedAt": 1702400000000
+      "addedAt": 1702400000000,
+      "metadata": {
+        "sourceRepository": {
+          "owner": "better-auth",
+          "name": "better-auth"
+        }
+      }
     },
     {
       "workspaceId": "ws-developer-tools",
       "repositoryId": "principal-forks/supabase",
-      "addedAt": 1702400000000
+      "addedAt": 1702400000000,
+      "metadata": {
+        "sourceRepository": {
+          "owner": "supabase",
+          "name": "supabase"
+        }
+      }
     },
     {
       "workspaceId": "ws-ai-utilities",
       "repositoryId": "principal-forks/beads",
-      "addedAt": 1702400000000
+      "addedAt": 1702400000000,
+      "metadata": {
+        "sourceRepository": {
+          "owner": "steveyegge",
+          "name": "beads"
+        }
+      }
     },
     {
       "workspaceId": "ws-ai-utilities",
       "repositoryId": "principal-forks/Fabric",
-      "addedAt": 1702400000000
+      "addedAt": 1702400000000,
+      "metadata": {
+        "sourceRepository": {
+          "owner": "danielmiessler",
+          "name": "Fabric"
+        }
+      }
     },
     {
       "workspaceId": "ws-ai-utilities",
       "repositoryId": "principal-forks/Backlog.md",
-      "addedAt": 1702400000000
+      "addedAt": 1702400000000,
+      "metadata": {
+        "sourceRepository": {
+          "owner": "MrLesk",
+          "name": "Backlog.md"
+        }
+      }
     },
     {
       "workspaceId": "ws-ai-utilities",
       "repositoryId": "principal-forks/pdf-library",
-      "addedAt": 1702400000000
+      "addedAt": 1702400000000,
+      "metadata": {
+        "sourceRepository": {
+          "owner": "joelhooks",
+          "name": "pdf-brain"
+        }
+      }
     },
     {
       "workspaceId": "ws-ai-utilities",
       "repositoryId": "principal-forks/claude-telegram-mirror",
-      "addedAt": 1702400000000
+      "addedAt": 1702400000000,
+      "metadata": {
+        "sourceRepository": {
+          "owner": "robertelee78",
+          "name": "claude-telegram-mirror"
+        }
+      }
     },
     {
       "workspaceId": "ws-ai-utilities",
       "repositoryId": "principal-forks/dexter",
-      "addedAt": 1702400000000
+      "addedAt": 1702400000000,
+      "metadata": {
+        "sourceRepository": {
+          "owner": "virattt",
+          "name": "dexter"
+        }
+      }
     },
     {
       "workspaceId": "ws-ai-utilities",
       "repositoryId": "principal-forks/next-ai-draw-io",
-      "addedAt": 1702400000000
+      "addedAt": 1702400000000,
+      "metadata": {
+        "sourceRepository": {
+          "owner": "DayuanJiang",
+          "name": "next-ai-draw-io"
+        }
+      }
     },
     {
       "workspaceId": "ws-ai-utilities",
       "repositoryId": "principal-forks/omnara",
-      "addedAt": 1702400000000
+      "addedAt": 1702400000000,
+      "metadata": {
+        "sourceRepository": {
+          "owner": "omnara-ai",
+          "name": "omnara"
+        }
+      }
     },
     {
       "workspaceId": "ws-ai-utilities",
       "repositoryId": "principal-forks/epicenter",
-      "addedAt": 1702400000000
+      "addedAt": 1702400000000,
+      "metadata": {
+        "sourceRepository": {
+          "owner": "EpicenterHQ",
+          "name": "epicenter"
+        }
+      }
     },
     {
       "workspaceId": "ws-creative-business",
       "repositoryId": "principal-forks/tldraw",
-      "addedAt": 1702400000000
+      "addedAt": 1702400000000,
+      "metadata": {
+        "sourceRepository": {
+          "owner": "tldraw",
+          "name": "tldraw"
+        }
+      }
     },
     {
       "workspaceId": "ws-creative-business",
       "repositoryId": "principal-forks/orca-engine",
-      "addedAt": 1702400000000
+      "addedAt": 1702400000000,
+      "metadata": {
+        "sourceRepository": {
+          "owner": "Simplifine-gamedev",
+          "name": "orca-engine"
+        }
+      }
     },
     {
       "workspaceId": "ws-creative-business",
       "repositoryId": "principal-forks/midday",
-      "addedAt": 1702400000000
+      "addedAt": 1702400000000,
+      "metadata": {
+        "sourceRepository": {
+          "owner": "midday-ai",
+          "name": "midday"
+        }
+      }
     },
     {
       "workspaceId": "ws-creative-business",
       "repositoryId": "principal-forks/polar",
-      "addedAt": 1702400000000
+      "addedAt": 1702400000000,
+      "metadata": {
+        "sourceRepository": {
+          "owner": "polarsource",
+          "name": "polar"
+        }
+      }
     },
     {
       "workspaceId": "ws-creative-business",
       "repositoryId": "principal-forks/Zero",
-      "addedAt": 1702400000000
+      "addedAt": 1702400000000,
+      "metadata": {
+        "sourceRepository": {
+          "owner": "Mail-0",
+          "name": "Zero"
+        }
+      }
     }
   ]
 }
